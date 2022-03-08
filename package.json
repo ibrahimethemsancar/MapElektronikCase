@@ -11,6 +11,7 @@
   "dependencies": {
     "csv-parse": "^5.0.4",
     "csv-parser": "^3.0.0",
+    "elementtree": "^0.1.7",
     "xmlbuilder": "^15.1.1",
     "xmldoc": "^1.1.2"
   }
